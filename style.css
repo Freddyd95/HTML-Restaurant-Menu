@@ -1,0 +1,9 @@
+.banner {
+    display: auto;
+    height: 200px;
+    width: 300px;
+}
+
+.navbar .select {
+    cursor: pointer;
+}
